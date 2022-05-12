@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razein97&label=Profile%20views&color=0e75b6&style=flat" alt="razein97" /> </p>
 
-- 🔭 I’m currently working on [lawnest](private)
+- 🔭 I’m currently working on 🤫 secret
 
-- 🌱 I’m currently learning **Android Kotlin Development**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/razein97](https://github.com/razein97)
 
