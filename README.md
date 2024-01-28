@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on 🤫 secret
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Sveltekit and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/razein97](https://github.com/razein97)
 
