@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/razein97](https://github.com/razein97)
 
-- 📫 How to reach me **razein97@gmail.com**
+- 📫 How to reach me **razein@wizql.com**
 
 - ⚡ Fun fact **while(true) -> humour++**
 
