@@ -13,4 +13,4 @@
 
 - ⚡ Fun fact **while(true) -> humour++**
 
-- All the emojis are from before AI used it as a signture to sign their content.
+- All the emojis are from before AI used it as a signature to sign their content.
