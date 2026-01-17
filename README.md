@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razein97&label=Profile%20views&color=0e75b6&style=flat" alt="razein97" /> </p>
 
-- 🔭 I’m currently working on 🤫 secret
+- 🔭 I’m currently working on [WizQl](https://wizql.com)
 
-- 🌱 I’m currently learning **Sveltekit and Rust**
+- 🌱 I’m always learning **Sveltekit, Rust, APi's Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/razein97](https://github.com/razein97)
 
@@ -13,5 +13,4 @@
 
 - ⚡ Fun fact **while(true) -> humour++**
 
-
-
+- All the emojis are from before AI used it as a signture to sign their content.
